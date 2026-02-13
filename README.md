@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Denis Munene
 
-<!--
-**denismunene2006-lab/denismunene2006-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer  
+🚀 Passionate about building modern and responsive websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML5
+- CSS3
+- Git & GitHub
+
+---
+
+## 🌐 Live Projects
+
+- 🌍 Portfolio Website  
+  https://denismunene2006-lab.github.io/my-website/
+
+- 📚 Mary Bookshop Website  
+  https://denismunene2006-lab.github.io/mary-bookshop/
+
+---
+
+## 📚 Currently Learning
+- JavaScript
+- Responsive Design
+- Advanced Web Development
+
+---
+
+## 🎯 Goals
+- Become a Full Stack Developer
+- Build real-world web applications
+- Contribute to open source projects
+
+---
+
+## 📫 Contact
+Feel free to connect with me through my portfolio website.
