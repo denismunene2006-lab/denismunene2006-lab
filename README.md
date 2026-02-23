@@ -13,18 +13,16 @@
 ---
 
 ## 🌐 Live Projects
-
-- 🌍 Portfolio Website  
+1.🌍 Portfolio Website  
   https://denismunene2006-lab.github.io/my-website/
-
-- 📚 Mary Bookshop Website  
+2.📚 Mary Bookshop Website  
   https://denismunene2006-lab.github.io/mary-bookshop/
   
--🚀 Tech Student Portal
+3.🚀 Tech Student Portal
 
 https://denismunene2006-lab.github.io/tech-student-portal
 
--💬📱 WhatsApp Clone (HTML, CSS & JavaScript)
+4.💬📱 WhatsApp Clone (HTML, CSS & JavaScript)
 
 https://denismunene2006-lab.github.io/whatsapp-clone-project/
 
