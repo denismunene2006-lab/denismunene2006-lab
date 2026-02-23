@@ -20,11 +20,11 @@
 - 📚 Mary Bookshop Website  
   https://denismunene2006-lab.github.io/mary-bookshop/
   
-🚀 Tech Student Portal
+-🚀 Tech Student Portal
 
 https://denismunene2006-lab.github.io/tech-student-portal
 
-💬📱 WhatsApp Clone (HTML, CSS & JavaScript)
+-💬📱 WhatsApp Clone (HTML, CSS & JavaScript)
 
 https://denismunene2006-lab.github.io/whatsapp-clone-project/
 
