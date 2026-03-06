@@ -30,7 +30,7 @@ https://denismunene2006-lab.github.io/whatsapp-clone-project/
 
 5.😀💵💵💲student hustle hub project
 
-https://github.com/denismunene2006-lab/campus-startup.git
+ https://denismunene2006-lab.github.io/campus-startup/
 
 ## 📚 Currently Learning
 - JavaScript
