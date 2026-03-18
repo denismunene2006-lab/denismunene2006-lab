@@ -21,15 +21,12 @@
 2.📚 Mary Bookshop Website  
   https://denismunene2006-lab.github.io/mary-bookshop/
   
-3.🚀 Tech Student Portal
 
-https://denismunene2006-lab.github.io/tech-student-portal
-
-4.💬📱 WhatsApp Clone (HTML, CSS & JavaScript)
+3.💬📱 WhatsApp Clone (HTML, CSS & JavaScript)
 
 https://denismunene2006-lab.github.io/whatsapp-clone-project/
 
-5.😀💵💵💲student hustle hub project
+4.😀💵💵💲student hustle hub project
 
 https://student-hustle-hub.vercel.app
 
