@@ -7,6 +7,7 @@
 
 ## 🛠 Skills
 - HTML5
+- javascript
 - CSS3
 - Git & GitHub
 
@@ -33,8 +34,7 @@ https://denismunene2006-lab.github.io/whatsapp-clone-project/
 https://student-hustle-hub.vercel.app
 
 ## 📚 Currently Learning
-- JavaScript
-- Responsive Design
+
 - Advanced Web Development
 
 ---
@@ -47,4 +47,4 @@ https://student-hustle-hub.vercel.app
 ---
 
 ## 📫 Contact
-Feel free to connect with me through my portfolio website.
+Feel free to connect with me through my portfolio website:https://denismunene2006-lab.github.io/my-website/
