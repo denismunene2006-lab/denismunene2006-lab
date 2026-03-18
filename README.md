@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denis Munene
 
-💻 Aspiring Web Developer  
+💻 Web Developer  
 🚀 Passionate about building modern and responsive websites  
 
 ---
