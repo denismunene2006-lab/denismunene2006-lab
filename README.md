@@ -29,6 +29,9 @@ https://denismunene2006-lab.github.io/whatsapp-clone-project/
 4.😀💵💵💲student hustle hub project
 
 https://student-hustle-hub.vercel.app
+5.💵💲-Demo e-commerce website
+
+https://denismunene2006-lab.github.io/e-commerce-website/
 
 ## 📚 Currently Learning
 
