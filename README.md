@@ -37,6 +37,7 @@ https://denismunene2006-lab.github.io/e-commerce-website/
 ## 📚 Currently Learning
 
 - Advanced Web Development
+- cybersecurity
 
 ---
 
