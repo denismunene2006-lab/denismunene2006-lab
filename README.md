@@ -67,16 +67,15 @@ A demo online store with product listings and UI components.
 To become a highly skilled Full Stack Developer and build solutions that solve real problems and generate income.
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://denismunene2006-lab.github.io/my-website">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" />
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="60" style="border-radius:50%; margin:10px;" />
   </a>
-  
+
   <a href="https://wa.me/254710236087">
-    <img src="https://img.shields.io/badge/📱%20WhatsApp-25D366?style=for-the-badge" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60" style="border-radius:50%; margin:10px;" />
   </a>
 </p>
 
