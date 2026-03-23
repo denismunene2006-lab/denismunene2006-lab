@@ -21,6 +21,13 @@ Currently focused on improving my frontend skills and moving toward full-stack d
 
 ## 🚀 Featured Projects
 
+### 💼 Student Hustle Hub
+A platform where students can showcase and sell their services.
+
+🔗 https://student-hustle-hub.vercel.app  
+
+---
+
 ### 🌐 Portfolio Website
 A personal website showcasing my skills and projects.
 
@@ -42,12 +49,7 @@ A front-end clone of WhatsApp focusing on UI design and interaction using JavaSc
 
 ---
 
-### 💼 Student Hustle Hub
-A platform where students can showcase and sell their services.
 
-🔗 https://student-hustle-hub.vercel.app  
-
----
 
 ### 🛒 E-commerce Website
 A demo online store with product listings and UI components.
