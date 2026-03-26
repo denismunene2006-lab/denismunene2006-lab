@@ -39,7 +39,7 @@ I am a **Full-Stack Developer** dedicated to building responsive, secure, and us
 
 ---
 
-### 🚀 Key Projects
+### 🚀Featured Projects
 
 | Project | Core Stack | Live Preview |
 | :--- | :--- | :--- |
