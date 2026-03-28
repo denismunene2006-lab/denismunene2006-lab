@@ -10,8 +10,8 @@
 
 ### 🧠 Professional Profile
 I am a **Full-Stack Developer** dedicated to building responsive, secure, and user-centric web applications. My expertise lies in creating seamless digital experiences using the **MERN stack**, with a strong focus on clean code and scalable architecture.
-* 🚀 **Currently working on:**<br> [Student Hustle Hub](https://student-hustle-hub.vercel.app) -**A service marketplace for students.**<br>
-                                          [smart-study-access](https://denismunene2006-lab.github.io/Smart-study-access/)-**A University of Embu past papers hub.**
+* 🚀 **Currently working on:**<br>- [Student Hustle Hub](https://student-hustle-hub.vercel.app) -**A service marketplace for students.**<br>
+                                       -   [smart-study-access](https://denismunene2006-lab.github.io/Smart-study-access/)-**A University of Embu past papers hub.**
 * 🛡️ **Focus:** Implementing secure authentication (JWT) and optimizing RESTful APIs.
 * 🎯 **Mission:** Engineering digital solutions that bridge the gap between complex problems and elegant code.
 
