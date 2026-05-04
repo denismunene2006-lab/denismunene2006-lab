@@ -17,22 +17,16 @@
 
 ---
 
-### 📊 Vital Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Denis's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🛠 Studio Tech Stack
 
 #### 🎨 Frontend Craftsmanship
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & Infrastructure
@@ -41,6 +35,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 
 ---
@@ -72,5 +67,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%" />
 </p>
