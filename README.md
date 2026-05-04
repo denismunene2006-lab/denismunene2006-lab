@@ -11,9 +11,17 @@
 ### 🏛 About D-Labs
 **D-Labs** is a web development studio focused on building practical, polished digital experiences for small businesses, startups, and personal brands. We create websites and web applications that are simple to navigate, easy to maintain, and designed to help you present your business with confidence.
 
-* 🎓 **Flagship Product:** [D-Labs Education](https://d-labs-education.vercel.app) - Empowering the next generation of web developers.
+* 🎓 **Flagship Product:** <a href="https://d-labs-education.vercel.app" target="_blank">D-Labs Education</a> — Empowering the next generation of web developers.
 * 🚀 **Current Mission:** Engineering digital solutions that bridge the gap between complex problems and elegant, secure code.
 * 🛡 **Core Focus:** Clean UI/UX, robust JWT authentication, and seamless M-Pesa (Daraja) payment integrations.
+
+---
+
+### 📊 Vital Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Denis's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -24,7 +32,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & Infrastructure
@@ -33,7 +41,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 
 ---
@@ -42,20 +49,20 @@
 
 | Project | Core Stack | Live Preview |
 | :--- | :--- | :--- |
-| **💡 D-Labs Education** | React, TypeScript, Node.js | [live🔗](https://d-labs-education.vercel.app) |
-| **💼 Student Hustle Hub** | React, Node.js, MongoDB | [Live🔗](https://student-hustle-hub.vercel.app) |
-| **📚 Smart Study Access** | JavaScript, UI/UX | [Live🔗](https://denismunene2006-lab.github.io/Smart-study-access/) |
-| **💬 WhatsApp Clone** | JavaScript, CSS3, HTML5 | [Live🔗](https://denismunene2006-lab.github.io/whatsapp-clone-project) |
-| **🛒 E-commerce Hub** | Frontend Components, UI | [Live🔗](https://denismunene2006-lab.github.io/e-commerce-website) |
+| **💡 D-Labs Education** | React, TypeScript | <a href="https://d-labs-education.vercel.app" target="_blank">View Site 🔗</a> |
+| **💼 Student Hustle Hub** | MERN Stack | <a href="https://student-hustle-hub.vercel.app" target="_blank">View Site 🔗</a> |
+| **📚 Smart Study Access** | JS, UI/UX | <a href="https://denismunene2006-lab.github.io/Smart-study-access/" target="_blank">View Site 🔗</a> |
+| **💬 WhatsApp Clone** | HTML/CSS/JS | <a href="https://denismunene2006-lab.github.io/whatsapp-clone-project" target="_blank">View Site 🔗</a> |
+| **🛒 E-commerce Hub** | React, UI | <a href="https://denismunene2006-lab.github.io/e-commerce-website" target="_blank">View Site 🔗</a> |
 
 ---
 
 ### 🤝 Connect With The Studio
 <p align="left">
-  <a href="https://wa.me/254710236087">
+  <a href="https://wa.me/254710236087" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:denismunene2006@gmail.com">
+  <a href="mailto:denismunene2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -65,5 +72,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.app/api?type=rect&color=00b4d8&height=30&section=footer" width="100%" />
 </p>
