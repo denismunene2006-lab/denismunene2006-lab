@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=D-LABS%20%7C%20EDUCATION&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Engineering%20the%20Next%20Generation%20of%20Developers&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=D-LABS&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Practical%20.%20Polished%20.%20Digital%20Experiences&descAlignY=55&descSize=22" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Building+D-Labs+Education;MERN+Stack+Specialist;Full-Stack+Web+Developer;Web+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Web+Development+Studio;Building+Scalable+Solutions;MERN+Stack+Specialists;Polishing+Personal+Brands" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🧠 Professional Profile
-I am a **Full-Stack Developer** and the founder of **D-Labs**, a brand dedicated to bridging the gap between theoretical knowledge and industry-standard web development. My work focuses on building scalable MERN stack applications with a heavy emphasis on security and clean architecture.
+### 🏛 About D-Labs
+**D-Labs** is a web development studio focused on building practical, polished digital experiences for small businesses, startups, and personal brands. We create websites and web applications that are simple to navigate, easy to maintain, and designed to help you present your business with confidence.
 
-* 🎓 **Flagship Project:** [D-Labs Education](https://github.com/denismunene2006-lab) - A comprehensive platform designed for aspiring developers to master modern web technologies.
-* 🛠 **Current Sprint:** Optimizing the **D-NET PAY TO CONNECT** residential WiFi portal and expanding the D-Labs curriculum.
-* 🛡 **Specialization:** Secure authentication systems (JWT/OAuth), Supabase integration, and M-Pesa API (Daraja) implementation.
+* 🎓 **Flagship Product:** [D-Labs Education](https://github.com/denismunene2006-lab) - Empowering the next generation of web developers.
+* 🚀 **Current Mission:** Engineering digital solutions that bridge the gap between complex problems and elegant, secure code.
+* 🛡 **Core Focus:** Clean UI/UX, robust JWT authentication, and seamless M-Pesa (Daraja) payment integrations.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Studio Tech Stack
 
-#### 💻 Frontend Mastery
+#### 🎨 Frontend Craftsmanship
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -38,18 +38,19 @@ I am a **Full-Stack Developer** and the founder of **D-Labs**, a brand dedicated
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Featured Portfolio
 
-| Project | Description | Tech Stack |
+| Project | Core Stack | Live Preview |
 | :--- | :--- | :--- |
-| **💡 D-Labs Education** | Interactive web development learning platform. | React, Node.js, TypeScript |
-| **🌐 D-NET Portal** | Residential WiFi billing & management system. | React, Supabase, M-Pesa API |
-| **💼 Student Hustle Hub** | A local service marketplace for university students. | MERN Stack |
-| **🔐 SwiftCommerce** | E-commerce with secure STK Push integration. | React, Node.js, Daraja API |
+| **💡 D-Labs Education** | React, TypeScript, Node.js | [In Development 🛠](https://github.com/denismunene2006-lab) |
+| **💼 Student Hustle Hub** | React, Node.js, MongoDB | [Live Demo 🔗](https://student-hustle-hub.vercel.app) |
+| **📚 Smart Study Access** | JavaScript, UI/UX | [Live Demo 🔗](https://denismunene2006-lab.github.io/Smart-study-access/) |
+| **💬 WhatsApp Clone** | JavaScript, CSS3, HTML5 | [Live Demo 🔗](https://denismunene2006-lab.github.io/whatsapp-clone-project) |
+| **🛒 E-commerce Hub** | Frontend Components, UI | [Live Demo 🔗](https://denismunene2006-lab.github.io/e-commerce-website) |
 
 ---
 
-### 🤝 Connect with the Lab
+### 🤝 Connect With The Studio
 <p align="left">
   <a href="https://wa.me/254710236087">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -60,7 +61,7 @@ I am a **Full-Stack Developer** and the founder of **D-Labs**, a brand dedicated
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20code%20it.&author=Denis%20Munene%20%7C%20D-Labs&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=D-Labs&theme=tokyonight" />
 </div>
 
 <p align="center">
