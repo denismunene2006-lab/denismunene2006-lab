@@ -11,7 +11,7 @@
 ### 🏛 About D-Labs
 **D-Labs** is a web development studio focused on building practical, polished digital experiences for small businesses, startups, and personal brands. We create websites and web applications that are simple to navigate, easy to maintain, and designed to help you present your business with confidence.
 
-* 🎓 **Flagship Product:** [D-Labs Education](https://github.com/denismunene2006-lab) - Empowering the next generation of web developers.
+* 🎓 **Flagship Product:** [D-Labs Education](https://d-labs-education.vercel.app) - Empowering the next generation of web developers.
 * 🚀 **Current Mission:** Engineering digital solutions that bridge the gap between complex problems and elegant, secure code.
 * 🛡 **Core Focus:** Clean UI/UX, robust JWT authentication, and seamless M-Pesa (Daraja) payment integrations.
 
@@ -42,11 +42,11 @@
 
 | Project | Core Stack | Live Preview |
 | :--- | :--- | :--- |
-| **💡 D-Labs Education** | React, TypeScript, Node.js | [In Development 🛠](https://github.com/denismunene2006-lab) |
-| **💼 Student Hustle Hub** | React, Node.js, MongoDB | [Live Demo 🔗](https://student-hustle-hub.vercel.app) |
-| **📚 Smart Study Access** | JavaScript, UI/UX | [Live Demo 🔗](https://denismunene2006-lab.github.io/Smart-study-access/) |
-| **💬 WhatsApp Clone** | JavaScript, CSS3, HTML5 | [Live Demo 🔗](https://denismunene2006-lab.github.io/whatsapp-clone-project) |
-| **🛒 E-commerce Hub** | Frontend Components, UI | [Live Demo 🔗](https://denismunene2006-lab.github.io/e-commerce-website) |
+| **💡 D-Labs Education** | React, TypeScript, Node.js | [live🔗](https://d-labs-education.vercel.app) |
+| **💼 Student Hustle Hub** | React, Node.js, MongoDB | [Live🔗](https://student-hustle-hub.vercel.app) |
+| **📚 Smart Study Access** | JavaScript, UI/UX | [Live🔗](https://denismunene2006-lab.github.io/Smart-study-access/) |
+| **💬 WhatsApp Clone** | JavaScript, CSS3, HTML5 | [Live🔗](https://denismunene2006-lab.github.io/whatsapp-clone-project) |
+| **🛒 E-commerce Hub** | Frontend Components, UI | [Live🔗](https://denismunene2006-lab.github.io/e-commerce-website) |
 
 ---
 
