@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/🌐_Website-0F172A?style=for-the-badge&logoColor=white" />
 </a>
 
-<a href="https://student-hustle-hub.vercel.app">
-  <img src="https://img.shields.io/badge/🚀_Projects-2563EB?style=for-the-badge&logoColor=white" />
-</a>
 
 <a href="mailto:denismunene2006@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-06B6D4?style=for-the-badge&logoColor=white" />
