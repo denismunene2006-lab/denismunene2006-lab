@@ -75,7 +75,7 @@ Building digital experiences that inspire, educate and transform communities acr
 
 ---
 
-# 💼 Featured Projects
+# 💼 some of Featured Projects
 
 ## 🎓 D-Labs Education
 
@@ -93,14 +93,6 @@ Connecting students with opportunities, resources and digital services.
 
 ---
 
-## 📚 Smart Study Access
-
-An educational platform focused on improving learning accessibility and engagement.
-
-🔗 https://denismunene2006-lab.github.io/Smart-study-access/
-
----
-
 ## 💬 WhatsApp Clone
 
 A responsive messaging experience built with modern frontend technologies.
@@ -114,6 +106,13 @@ A responsive messaging experience built with modern frontend technologies.
 Modern shopping interface focused on performance and user experience.
 
 🔗 https://denismunene2006-lab.github.io/e-commerce-website
+
+---
+## 📚 Smart Study Access
+
+An educational platform focused on improving learning accessibility and engagement.
+
+🔗https://denismunene2006-lab.github.io/Smart-study-access/
 
 ---
 
