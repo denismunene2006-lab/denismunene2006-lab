@@ -77,13 +77,6 @@ Building digital experiences that inspire, educate and transform communities acr
 
 # 💼 some of Featured Projects
 
-## 🎓 D-Labs Education
-
-Empowering future developers through practical learning experiences and modern web technologies.
-
-🔗 https://d-labs-education.vercel.app
-
----
 
 ## 💼 Student Hustle Hub
 
@@ -108,6 +101,15 @@ Modern shopping interface focused on performance and user experience.
 🔗 https://denismunene2006-lab.github.io/e-commerce-website
 
 ---
+
+## 🎓 D-Labs Education
+
+Empowering future developers through practical learning experiences and modern web technologies.
+
+🔗 https://d-labs-education.vercel.app
+
+---
+
 ## 📚 Smart Study Access
 
 An educational platform focused on improving learning accessibility and engagement.
