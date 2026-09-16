@@ -82,7 +82,7 @@ Building digital experiences that inspire, educate and transform communities acr
 
 Connecting students with opportunities, resources and digital services.
 
-🔗 https://student-hustle-hub.vercel.app
+🔗https://hustle.dlabskenya.com/
 
 ---
 
@@ -114,8 +114,7 @@ Empowering future developers through practical learning experiences and modern w
 
 An educational platform focused on improving learning accessibility and engagement.
 
-🔗https://denismunene2006-lab.github.io/Smart-study-access/
-
+🔗https://smart.dlabskenya.com/
 ---
 
 # 📊 Studio Insights
