@@ -106,7 +106,7 @@ Modern shopping interface focused on performance and user experience.
 
 Empowering future developers through practical learning experiences and modern web technologies.
 
-🔗 https://d-labs-education.vercel.app
+🔗https://education.dlabskenya.com/
 
 ---
 
