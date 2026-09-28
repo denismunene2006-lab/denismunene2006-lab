@@ -113,7 +113,7 @@ An educational platform focused on improving learning accessibility and engageme
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=022c22&hide_border=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&stroke=10b981&background=022c22&ring=10b981&fire=10b981&currStreakNum=ffffff&sidenums=ffffff&sidefire=10b981&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&stroke=10b981&background=022c22&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=10b981&hide_border=true"/>
 
 <br><br>
 
