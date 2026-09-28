@@ -1,20 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,50:0F172A,100:022C22&text=D-LABS&fontColor=#ffffff&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Building%20Modern%20Digital%20Experiences&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0f19,50:0f172a,100:022c22&text=D-LABS&fontColor=#ffffff&fontSize=85&animation=fadeIn&fontAlignY=35&desc=~~~~~~~~~~~~~~~&descAlignY=46&descSize=30&descColor=10b981" width="100%" />
 </p>
-
-<!-- Electric Emerald Curved Swoosh Line Accent -->
-<div align="center" style="margin-top: -15px; margin-bottom: 25px;">
-  <svg width="280" height="20" viewBox="0 0 280 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M4 6C70 20 210 24 276 4C200 16 80 14 4 6Z" fill="url(#electric-swoosh)" />
-    <defs>
-      <linearGradient id="electric-swoosh" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#10B981" />
-        <stop offset="50%" stop-color="#34D399" />
-        <stop offset="100%" stop-color="#059669" />
-      </linearGradient>
-    </defs>
-  </svg>
-</div>
 
 <div align="center">
 
