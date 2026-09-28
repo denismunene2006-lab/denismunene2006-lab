@@ -1,6 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:022c22,50:059669,100:10b981&text=D-LABS&fontColor=#ffffff&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Building%20Modern%20Digital%20Experiences&descAlignY=58&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:022c22,50:059669,100:10b981&text=D-LABS&fontColor=#ffffff&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Building%20Modern%20Digital%20Experiences&descAlignY=62&descSize=20" width="100%" />
 </p>
+
+<!-- Curved Swoosh Line Accent -->
+<div align="center" style="margin-top: -25px; margin-bottom: 20px;">
+  <svg width="220" height="18" viewBox="0 0 220 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M2 4C50 16 170 20 218 3C160 14 60 12 2 4Z" fill="url(#swoosh-gradient)" />
+    <defs>
+      <linearGradient id="swoosh-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#10B981" />
+        <stop offset="50%" stop-color="#34D399" />
+        <stop offset="100%" stop-color="#059669" />
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
 
 <div align="center">
 
