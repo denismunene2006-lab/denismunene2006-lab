@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0f19,50:0f172a,100:022c22&text=D-LABS&fontColor=#ffffff&fontSize=85&animation=fadeIn&fontAlignY=35&desc=~~~~~~~~~~~~~~~&descAlignY=46&descSize=30&descColor=10b981" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:022c22,50:059669,100:10b981&text=D-LABS&fontColor=#ffffff&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Building%20Modern%20Digital%20Experiences&descAlignY=58&descSize=22" width="100%" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://d-labs-education.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Website-0B0F19?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Website-022C22?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:denismunene2006@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-059669?style=for-the-badge&logoColor=white" />
@@ -112,12 +112,12 @@ An educational platform focused on improving learning accessibility and engageme
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0b0f19&hide_border=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&stroke=10b981&background=0b0f19&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=10b981&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=022c22&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&stroke=10b981&background=022c22&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=10b981&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=denismunene2006-lab&theme=github-dark&bg_color=0b0f19&color=10b981&line=10b981&point=ffffff&hide_border=true&radius=16"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=denismunene2006-lab&theme=github-dark&bg_color=022c22&color=10b981&line=10b981&point=ffffff&hide_border=true&radius=16"/>
 
 </div>
 
@@ -165,5 +165,5 @@ An educational platform focused on improving learning accessibility and engageme
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0B0F19,50:0F172A,100:022C22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:022c22,50:059669,100:10b981" width="100%" />
 </p>
