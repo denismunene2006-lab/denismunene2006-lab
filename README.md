@@ -73,6 +73,16 @@ Building digital experiences that inspire, educate, and transform communities ac
 
 # 💼 Featured Projects
 
+### 💳 [Lipa](https://lipa.dlabskenya.com)
+A single-business counter application designed for seamlessly collecting M-Pesa payments in Kenya.
+
+---
+
+### 🛍️ [Greenline POS](https://greenline.dlabskenya.com)
+A prototype, browser-based point-of-sale system built for small businesses to manage sales, inventory, and daily operations smoothly.
+
+---
+
 ### 💼 [Student Hustle Hub](https://hustle.dlabskenya.com/)
 Connecting students with opportunities, resources, and digital services.
 
