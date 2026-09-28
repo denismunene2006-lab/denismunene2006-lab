@@ -1,19 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:022c22,50:059669,100:10b981&text=D-LABS&fontColor=#ffffff&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Building%20Modern%20Digital%20Experiences&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,50:0F172A,100:022C22&text=D-LABS&fontColor=#ffffff&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Building%20Modern%20Digital%20Experiences&descAlignY=62&descSize=20" width="100%" />
 </p>
 
-<!-- High-Contrast Curved Swoosh Line Accent -->
-<div align="center" style="margin-top: 10px; margin-bottom: 25px;">
-  <svg width="280" height="24" viewBox="0 0 280 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#ffffff" flood-opacity="0.6"/>
-    </filter>
-    <path d="M4 6C70 22 210 26 276 4C200 18 80 16 4 6Z" fill="url(#bright-swoosh)" filter="url(#glow)" />
+<!-- Electric Emerald Curved Swoosh Line Accent -->
+<div align="center" style="margin-top: -15px; margin-bottom: 25px;">
+  <svg width="280" height="20" viewBox="0 0 280 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M4 6C70 20 210 24 276 4C200 16 80 14 4 6Z" fill="url(#electric-swoosh)" />
     <defs>
-      <linearGradient id="bright-swoosh" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#34D399" />
-        <stop offset="50%" stop-color="#10B981" />
-        <stop offset="100%" stop-color="#6EE7B7" />
+      <linearGradient id="electric-swoosh" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#10B981" />
+        <stop offset="50%" stop-color="#34D399" />
+        <stop offset="100%" stop-color="#059669" />
       </linearGradient>
     </defs>
   </svg>
@@ -26,7 +23,7 @@
 <br><br>
 
 <a href="https://d-labs-education.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Website-022C22?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Website-0B0F19?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:denismunene2006@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-059669?style=for-the-badge&logoColor=white" />
@@ -129,12 +126,12 @@ An educational platform focused on improving learning accessibility and engageme
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=022c22&hide_border=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&stroke=10b981&background=022c22&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=10b981&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0b0f19&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&stroke=10b981&background=0b0f19&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=10b981&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=denismunene2006-lab&theme=github-dark&bg_color=022c22&color=10b981&line=10b981&point=ffffff&hide_border=true&radius=16"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=denismunene2006-lab&theme=github-dark&bg_color=0b0f19&color=10b981&line=10b981&point=ffffff&hide_border=true&radius=16"/>
 
 </div>
 
@@ -182,5 +179,5 @@ An educational platform focused on improving learning accessibility and engageme
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:022c22,50:059669,100:10b981" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0B0F19,50:0F172A,100:022C22" width="100%" />
 </p>
