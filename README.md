@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://d-labs-education.vercel.app">
+<a href="https://dlabskenya.com">
   <img src="https://img.shields.io/badge/🌐_Website-022C22?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:denismunene2006@gmail.com">
