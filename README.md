@@ -74,7 +74,9 @@ Building digital experiences that inspire, educate, and transform communities ac
 # 💼 Featured Projects
 
 ### 💳 [Lipa Biz](https://lipa-biz.dlabskenya.com)
+
 Businesses helper-from M-Pesa payments to customer records, debts and digital receipts, Lipa Biz helps keep businesses organized in one place.
+
 ---
 
 ### 🛍️ [Greenline POS](https://greenline.dlabskenya.com)
