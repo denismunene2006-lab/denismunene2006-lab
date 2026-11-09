@@ -73,9 +73,8 @@ Building digital experiences that inspire, educate, and transform communities ac
 
 # 💼 Featured Projects
 
-### 💳 [Lipa](https://lipa.dlabskenya.com)
-A single-business counter application designed for seamlessly collecting M-Pesa payments in Kenya.
-
+### 💳 [Lipa Biz](https://lipa-biz.dlabskenya.com)
+Businesses helper-from M-Pesa payments to customer records, debts and digital receipts, Lipa Biz helps keep businesses organized in one place.
 ---
 
 ### 🛍️ [Greenline POS](https://greenline.dlabskenya.com)
@@ -93,18 +92,13 @@ A responsive messaging experience built with modern frontend technologies.
 
 ---
 
-### 🛒 [E-Commerce Platform](https://denismunene2006-lab.github.io/e-commerce-website)
+### 🛒 [E-Commerce Platform](https://e-commerce-website-flax-eta.vercel.app/)
 Modern shopping interface focused on performance and user experience.
 
 ---
 
 ### 🎓 [D-Labs Education](https://education.dlabskenya.com/)
 Empowering future developers through practical learning experiences and modern web technologies.
-
----
-
-### 📚 [Smart Study Access](https://smart.dlabskenya.com/)
-An educational platform focused on improving learning accessibility and engagement.
 
 ---
 
