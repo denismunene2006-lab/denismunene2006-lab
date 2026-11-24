@@ -1,165 +1,193 @@
+# D-LABS | Software Development & Digital Innovation
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:022c22,50:059669,100:10b981&text=D-LABS&fontColor=#ffffff&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Building%20Modern%20Digital%20Experiences&descAlignY=58&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:022c22,50:059669,100:10b981&text=D-LABS&fontColor=ffffff&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Practical.%20Polished.%20Digital%20Experiences.&descAlignY=60&descSize=18" width="100%" />
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=10B981&center=true&vCenter=true&width=900&lines=Modern+Web+Development+Studio;Building+Scalable+Digital+Products;AI+Powered+Solutions;Education+Technology+Innovators;Turning+Ideas+Into+Reality" />
-
-<br><br>
-
-<a href="https://dlabskenya.com">
-  <img src="https://img.shields.io/badge/🌐_Website-022C22?style=for-the-badge&logoColor=white" />
-</a>
-<a href="mailto:denismunene2006@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-059669?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://wa.me/254710236087">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-10B981?style=for-the-badge&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# ⚡ About D-Labs
-
-D-Labs is a modern software and web development studio focused on creating beautiful, scalable, and impactful digital experiences.
-
-We help businesses, students, startups, and personal brands establish a powerful online presence through modern technologies, clean design, and practical solutions.
-
-### 🎯 Our Mission
-To bridge the gap between innovative ideas and world-class digital products.
-
-### 🌍 Vision
-Building digital experiences that inspire, educate, and transform communities across Africa and beyond.
+<p align="center">
+  <strong>Building digital products that solve real-world problems.</strong>
+</p>
+<p align="center">
+  <a href="https://dlabskenya.com">
+    <img src="https://img.shields.io/badge/🌐_WEBSITE-022C22?style=for-the-badge&labelColor=022C22" />
+  </a>
+  <a href="https://github.com/denismunene2006-lab">
+    <img src="https://img.shields.io/badge/💻_GITHUB-064E3B?style=for-the-badge&labelColor=064E3B" />
+  </a>
+  <a href="mailto:denismunene2006@gmail.com">
+    <img src="https://img.shields.io/badge/✉_EMAIL-047857?style=for-the-badge&labelColor=047857" />
+  </a>
+  <a href="https://wa.me/254710236087">
+    <img src="https://img.shields.io/badge/💬_WHATSAPP-059669?style=for-the-badge&labelColor=059669" />
+  </a>
+</p>
 
 ---
 
-# 🚀 What We Build
+## ⚡ About D-Labs
 
-<div align="center">
+**D-Labs** is a software development and digital innovation studio focused on designing, developing, and delivering practical digital solutions.
 
-| 🌐 Websites | 🚀 Web Apps | 🤖 AI Solutions |
-| :--- | :--- | :--- |
-| Business Sites | SaaS Platforms | AI Integrations |
-| Portfolios | Student Platforms | Automation Systems |
-| Landing Pages | Dashboards | Smart Assistants |
+We build modern web applications, business management platforms, educational technology, and AI-powered experiences.
 
-</div>
+Our approach combines modern engineering, thoughtful design, and problem-solving to turn ideas into useful digital products.
 
----
+**What drives us:**
+- Building software that solves practical problems.
+- Making technology accessible to businesses and individuals.
+- Creating intuitive, reliable, and scalable digital experiences.
+- Exploring emerging technologies and turning ideas into products.
 
-# 🛠 Technology Stack
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-
-<br>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase" />
-
-<br>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-
-</div>
+**Our philosophy:** Practical. Polished. Digital Experiences.
 
 ---
 
-# 💼 Featured Projects
+## 🚀 What We Do
 
-### 💳 [Lipa Biz](https://lipa-biz.dlabskenya.com)
-
-Businesses helper-from M-Pesa payments to customer records, debts and digital receipts, Lipa Biz helps keep businesses organized in one place.
-
----
-
-### 🛍️ [Greenline POS](https://greenline.dlabskenya.com)
-A prototype, browser-based point-of-sale system built for small businesses to manage sales, inventory, and daily operations smoothly.
-
----
-
-### 💼 [Student Hustle Hub](https://hustle.dlabskenya.com/)
-Connecting students with opportunities, resources, and digital services.
+| Area | What We Build |
+|---|---|
+| 🌐 Web Development | Business websites, portfolios and landing pages |
+| 💻 Software Development | Web applications, SaaS platforms and dashboards |
+| 💳 Business Technology | Payment management, POS and business automation |
+| 🤖 Artificial Intelligence | AI integrations, intelligent assistants and automation |
+| 🎓 Educational Technology | Learning platforms and digital education solutions |
 
 ---
 
-### 💬 [WhatsApp Clone](https://denismunene2006-lab.github.io/whatsapp-clone-project)
-A responsive messaging experience built with modern frontend technologies.
+## 💼 Featured Products & Projects
+
+### 💳 Lipa Biz
+**Business Payment & Management Platform**
+
+[Visit Lipa Biz](https://lipa-biz.dlabskenya.com)
+
+A business management platform designed to simplify daily operations.
+
+Key capabilities:
+- M-Pesa payment management.
+- Customer records and debt tracking.
+- Digital receipts and transaction history.
+- Business insights and analytics.
+- AI-powered business assistance.
+
+### 🛍️ Greenline POS
+**Point of Sale & Inventory Management**
+
+[Explore Greenline POS](https://greenline.dlabskenya.com)
+
+A browser-based POS concept designed to help small businesses manage:
+- Sales and transactions.
+- Products and inventory.
+- Daily business operations.
+
+### 🎓 D-Labs Education
+**Digital Learning & Education Technology**
+
+[Explore D-Labs Education](https://education.dlabskenya.com)
+
+A platform focused on practical learning, technology education, and helping aspiring developers build their skills.
+
+### 💼 Student Hustle Hub
+**Student Opportunities & Digital Resources**
+
+[Explore Student Hustle Hub](https://hustle.dlabskenya.com)
+
+A digital platform connecting students with opportunities, resources, and services.
+
+### 💬 WhatsApp Clone
+**Frontend Development Project**
+
+[View Project](https://denismunene2006-lab.github.io/whatsapp-clone-project)
+
+A responsive messaging interface built to explore modern frontend development and interactive user experiences.
+
+### 🛒 E-Commerce Platform
+**Online Shopping Experience**
+
+[View Project](https://e-commerce-website-flax-eta.vercel.app/)
+
+A modern e-commerce interface focused on product presentation, usability, and responsive design.
 
 ---
 
-### 🛒 [E-Commerce Platform](https://e-commerce-website-flax-eta.vercel.app/)
-Modern shopping interface focused on performance and user experience.
+## 🛠️ Technology Stack
+
+Technologies we use to design, build, and develop digital products.
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-### 🎓 [D-Labs Education](https://education.dlabskenya.com/)
-Empowering future developers through practical learning experiences and modern web technologies.
-
----
-
-# 📊 Studio Insights & Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=022c22&hide_border=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&stroke=10b981&background=022c22&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=10b981&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=denismunene2006-lab&theme=github-dark&bg_color=022c22&color=10b981&line=10b981&point=ffffff&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# 🏆 Core Principles
-
-- ⚡ **Performance First**
-- 🎨 **Beautiful User Experiences**
-- 🔒 **Secure By Design**
-- 📱 **Mobile Responsive**
-- 🚀 **Continuous Innovation**
-- 🤝 **Client-Centered Development**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://wa.me/254710236087">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="mailto:denismunene2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/denismunene2006-lab">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Practical • Polished • Powerful
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=denismunene2006-lab&label=Profile+Views&color=10B981&style=for-the-badge" />
-
-</div>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:022c22,50:059669,100:10b981" width="100%" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=denismunene2006-lab&show_icons=true&theme=transparent&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=022c22&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=denismunene2006-lab&theme=dark&background=022c22&ring=10b981&fire=10b981&currStreakLabel=10b981&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=denismunene2006-lab&theme=github-dark&bg_color=022c22&color=10b981&line=10b981&point=ffffff&hide_border=true&radius=12" />
+</p>
+
+---
+
+## 🎯 Our Engineering Principles
+
+- ⚡ **Performance:** Building efficient and responsive applications.
+- 🔒 **Security:** Prioritizing secure development practices.
+- 🎨 **User Experience:** Creating intuitive and accessible interfaces.
+- 📱 **Responsiveness:** Designing for mobile, tablet, and desktop.
+- 🧩 **Maintainability:** Writing organized and maintainable code.
+- 🚀 **Innovation:** Continuously exploring better ways to solve problems.
+
+---
+
+## 🤝 Let's Build Something
+
+Have an idea, a business challenge, or a project that needs a digital solution?
+
+Let's turn it into something practical.
+
+<p align="center">
+  <a href="https://dlabskenya.com">
+    <img src="https://img.shields.io/badge/EXPLORE_D--LABS-022c22?style=for-the-badge&logo=googlechrome&logoColor=10b981" />
+  </a>
+  <a href="https://wa.me/254710236087">
+    <img src="https://img.shields.io/badge/LET'S_TALK-059669?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:denismunene2006@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT_US-10b981?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Practical. Polished. Digital Experiences.</strong>
+  <br/>
+  <sub>© D-Labs | Building the future, one solution at a time.</sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=denismunene2006-lab&label=PROFILE+VISITORS&color=10b981&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:022c22,50:059669,100:10b981" width="100%" />
 </p>
