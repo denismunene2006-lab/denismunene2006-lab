@@ -7,20 +7,23 @@
 <p align="center">
   <strong>Building digital products that solve real-world problems.</strong>
 </p>
-<p align="center">
-  <a href="https://dlabskenya.com">
-    <img src="https://img.shields.io/badge/🌐_WEBSITE-022C22?style=for-the-badge&labelColor=022C22" />
-  </a>
-  <a href="https://github.com/denismunene2006-lab">
-    <img src="https://img.shields.io/badge/💻_GITHUB-064E3B?style=for-the-badge&labelColor=064E3B" />
-  </a>
-  <a href="mailto:denismunene2006@gmail.com">
-    <img src="https://img.shields.io/badge/✉_EMAIL-047857?style=for-the-badge&labelColor=047857" />
-  </a>
-  <a href="https://wa.me/254710236087">
-    <img src="https://img.shields.io/badge/💬_WHATSAPP-059669?style=for-the-badge&labelColor=059669" />
-  </a>
-</p>
+
+<div align="center">
+
+<a href="https://dlabskenya.com">
+  <img src="https://img.shields.io/badge/🌐_WEBSITE-022C22?style=for-the-badge&labelColor=022C22" />
+</a>
+<a href="https://github.com/denismunene2006-lab">
+  <img src="https://img.shields.io/badge/💻_GITHUB-064E3B?style=for-the-badge&labelColor=064E3B" />
+</a>
+<a href="mailto:denismunene2006@gmail.com">
+  <img src="https://img.shields.io/badge/✉_EMAIL-047857?style=for-the-badge&labelColor=047857" />
+</a>
+<a href="https://wa.me/254710236087">
+  <img src="https://img.shields.io/badge/💬_WHATSAPP-059669?style=for-the-badge&labelColor=059669" />
+</a>
+
+</div>
 
 ---
 
@@ -178,15 +181,17 @@ Let's turn it into something practical.
 
 ---
 
-<p align="center">
-  <strong>Practical. Polished. Digital Experiences.</strong>
-  <br/>
-  <sub>© D-Labs | Building the future, one solution at a time.</sub>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denismunene2006-lab&label=PROFILE+VISITORS&color=10b981&style=flat-square" />
-</p>
+### ⚡ Practical • Polished • Powerful
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=denismunene2006-lab&label=PROFILE+VISITORS&color=10b981&style=flat-square" />
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:022c22,50:059669,100:10b981" width="100%" />
