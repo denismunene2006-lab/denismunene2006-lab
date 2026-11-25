@@ -1,4 +1,3 @@
-# D-LABS | Software Development & Digital Innovation
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:022c22,50:059669,100:10b981&text=D-LABS&fontColor=ffffff&fontSize=95&animation=fadeIn&fontAlignY=38&desc=Practical.%20Polished.%20Digital%20Experiences.&descAlignY=60&descSize=18" width="100%" />
