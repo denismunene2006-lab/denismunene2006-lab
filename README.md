@@ -7,6 +7,9 @@
   <strong>Building digital products that solve real-world problems.</strong>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=10B981&center=true&vCenter=true&width=900&lines=Modern+Software+Development+Studio;Building+Scalable+Digital+Products;AI-Powered+Business+Solutions;Innovative+Web+Applications;Turning+Ideas+Into+Reality" />
+</p>
 <div align="center">
 
 <a href="https://dlabskenya.com">
